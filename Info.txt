@@ -1,2 +1,7 @@
 gafana-schemat
     http://visjs.org/network_examples.html
+
+		git@github.com:panpepson/mapa-wlodawa-partie.git
+
+		git push -u origin master
+		git remote add origin https://github.com/panpepson/mapa-wlodawa-partie.git
