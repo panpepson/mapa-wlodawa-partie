@@ -1,0 +1,74 @@
+PSL
+    ROMAŃCZUK Andrzej
+	KLOC Janusz Adam
+	SOŁODUCHA Elżbieta Dorota
+	SPOSÓB Wanda Jolanta
+	LITASZEWSKA Emilia Anna
+	KORPYSZ Daniel Piotr
+	ŁOŚ Sylwia Marta
+	WAWRYSZUK Marta
+	GOLEMAN Jolanta
+	OLEŚ Bożena
+	SAWICKI Tadeusz
+	ZYZA Bogusław Stanisław
+	KOCHAN Krzysztof
+	PANASIUK Adam
+	KUSZPA Krzysztof
+	KOŁODZIEJ Grażyna Marianna
+	KWIATKOWSKA Iwona Grażyna
+	KUPISZ Marian Tomasz
+	PRYLL Romuald Marek
+	FULMAN Zofia Dorota
+	PAWLUK Ewa Małgorzata
+	STRUSKI Ariel Sebastian
+	SUWAŁA Dariusz
+
+
+
+
+LNS
+
+
+{id: 1, label: 'Andrzej Jan RYSZ'},
+{id: 2, label: 'KORZENIEWSKI Tomasz'},
+{id: 3, label: 'ŁĄGWA Edward'},
+{id: 4, label: 'SŁOMIANY Honorata Ewa'},
+{id: 5, label: 'ŁOBACZ Paweł Antoni'},
+{id: 6, label: 'ZIMNICKA Monika Justyna'},
+{id: 7, label: 'KAZURO Waldemar Antoni'},
+{id: 8, label: 'TORBICZ Renata Agnieszka'},
+{id: 9, label: 'IGNATIUK Czesław'},
+{id: 10, label: 'KUNC Maria Teresa'},
+{id: 11, label: 'MIAZIO Anna'},
+{id: 12, label: 'CIOK Monika Sabina'},
+{id: 13, label: 'SZEWCZYK Krystian'},
+{id: 14, label: 'KOWALCZUK Jarosław'},
+{id: 15, label: 'WOJCIESZUK Adam'},
+{id: 16, label: 'WNUCZUK Konstanty Jan'},
+{id: 17, label: 'LEWANDOWSKA Beata'},
+{id: 18, label: 'ZAJĄC Wojciech Marek'},
+{id: 19, label: 'SKRZYŃSKA Elżbieta Dorota'},
+{id: 20, label: 'MARCIOCHA Czesław Jan'},
+{id: 21, label: 'KOWALCZUK Elżbieta'},
+{id: 22, label: 'MALINOWSKI Paweł Sylwester'},
+{id: 23, label: 'KORCZYŃSKI Roman Krzysztof'},
+{id: 24, label: 'STRUSKA Jolanta Anna'},
+{id: 25, label: 'BISKO Andrzej'},
+{id: 26, label: 'PAMULSKA Łucja Jadwiga'},
+{id: 27, label: 'MEGIEL Anna'},
+{id: 28, label: 'KORZENIEWSKA Hanna Maria'},
+{id: 29 label: 'ŁAGODZIŃSKI Jerzy'},
+{id: 30, label: 'KAPELKO Renata Małgorzata'},
+{id: 31, label: 'KLIMCZUK Janina Wiesława'},
+{id: 32, label: 'FLIS Marek'},
+{id: 33, label: 'JARZĄBEK Krzysztof'},
+{id: 34, label: 'GRZYWACZEWSKI Stanisław'},
+{id: 35, label: 'GĄSIOROWSKI Lucjan Aleksander'},
+{id: 36, label: 'SZCZEPAŃSKA Joanna Radosława'},
+{id: 37, label: 'URYNIUK Joanna'}
+
+
+
+
+
+
