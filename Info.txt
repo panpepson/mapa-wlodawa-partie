@@ -1,9 +1,19 @@
-gafana-schemat
-    http://visjs.org/network_examples.html
+
+Co potrzeba?
+
+potrzebne, są  wszystkie dane dotyczace lokalnych polityków w formacie csv 
+
+
+jak pobrać i uruchomić u siebie projekt
 
 		git@github.com:panpepson/mapa-wlodawa-partie.git
 
 		git push -u origin master
 		git remote add origin https://github.com/panpepson/mapa-wlodawa-partie.git
 
-		 git push origin master --force
+	  git push origin master --force
+
+
+możliwości grafa
+gafana-schemat
+    http://visjs.org/network_examples.html
