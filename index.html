@@ -24,7 +24,7 @@
     <script type="text/javascript">
         // create an array with nodes
         var nodes = new vis.DataSet([
-            { id: 1, font: { size: 12 }, label: 'Andrzej Jan RYSZ', color: 'red', shape: 'circle' },
+            { id: 1, font: { size: 12 }, label: 'Łączy Nas Samorząd', color: 'red', shape: 'circle' },
             { id: 2, label: 'KORZENIEWSKI Tomasz' },
             { id: 3, label: 'ŁĄGWA Edward' },
             { id: 4, label: 'SŁOMIANY Honorata Ewa' },
@@ -60,7 +60,8 @@
             { id: 34, label: 'GRZYWACZEWSKI Stanisław' },
             { id: 35, label: 'GĄSIOROWSKI Lucjan Aleksander' },
             { id: 36, label: 'SZCZEPAŃSKA Joanna Radosława' },
-            { id: 37, label: 'URYNIUK Joanna' }
+            { id: 37, label: 'URYNIUK Joanna' },
+            { id: 38, label: 'Andrzej Jan RYSZ' },
         ]);
 
         // create an array with edges
@@ -93,7 +94,7 @@
             { from: 27, to: 1 },
             { from: 28, to: 1 },
             { from: 29, to: 1 },
-            { from: 30, to: 1 },
+            { from: 30, to: 38 },
             { from: 31, to: 1 },
             { from: 32, to: 1 },
             { from: 33, to: 1 },
@@ -101,6 +102,7 @@
             { from: 35, to: 1 },
             { from: 36, to: 1 },
             { from: 37, to: 1 },
+            { from: 38, to: 1 },
         ]);
 
         // create a network
