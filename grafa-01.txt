@@ -1,5 +1,5 @@
 PSL
-    ROMAŃCZUK Andrzej
+  ROMAŃCZUK Andrzej
 	KLOC Janusz Adam
 	SOŁODUCHA Elżbieta Dorota
 	SPOSÓB Wanda Jolanta
@@ -23,12 +23,7 @@ PSL
 	STRUSKI Ariel Sebastian
 	SUWAŁA Dariusz
 
-
-
-
 LNS
-
-
 {id: 1, label: 'Andrzej Jan RYSZ'},
 {id: 2, label: 'KORZENIEWSKI Tomasz'},
 {id: 3, label: 'ŁĄGWA Edward'},
@@ -66,9 +61,3 @@ LNS
 {id: 35, label: 'GĄSIOROWSKI Lucjan Aleksander'},
 {id: 36, label: 'SZCZEPAŃSKA Joanna Radosława'},
 {id: 37, label: 'URYNIUK Joanna'}
-
-
-
-
-
-
