@@ -1,4 +1,4 @@
-# Gafa obrazujaca sieć połączeń partyjnych we Włodawie #  
+# Grafa obrazujaca sieć połączeń partyjnych we Włodawie #  
 
 żródło: https://wybory2018.pkw.gov.pl/pl/geografia/061900
 
